@@ -1,6 +1,10 @@
 #test{
 	background-color: green;
 }
+#textTest{
+	color:green;
+	background-color: blue;
+}
 
 
 /* Media Queries
